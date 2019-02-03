@@ -1,2 +1,6 @@
 # fleet-cmd
-Command-Line Real-Time Strategy Video Game
+Command-Line Driven Real-Time Strategy Video Game
+
+* [Design Overview][design]
+
+[design]: docs/Design_Overview.md
